@@ -1,1 +1,0 @@
-/Applications/GIMP.app/Contents/MacOS/GIMP -d -i -b "(resize-image-dir-keep-ratio \"*.jpg\" 1280 800)" -b "(gimp-quit 0)"
